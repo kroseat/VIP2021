@@ -1,5 +1,5 @@
 ============VIP_Student_ID, github repository============
-0. 이우주 : 2021120601, https://github.com/krosea/VIP2021, ajsdlfkjawlkfjsd
+0. 이우주 : 2021120601, https://github.com/krosea/VIP2021
 1. 김태환 : 
 2. 백하닮 : 
 3. 유동길 :
